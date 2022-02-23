@@ -11,7 +11,13 @@
 <body>
     <p>Date of Birth</p>
     <select>
+        <?php
 
+        for ($i = 1980; $i <= 2022; $i++) {
+            echo "<option>" . $i . "</option>";
+        }
+
+        ?>
     </select>
 </body>
 
