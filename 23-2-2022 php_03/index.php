@@ -8,12 +8,12 @@
     <title>PHP 3</title>
 </head>
 
-<body onload="m();">
+<body>
     <p>Date of Birth</p>
-    <select id="s">
+    <select>
 
     </select>
 </body>
-<script src="./script.js"></script>
+
 
 </html>
