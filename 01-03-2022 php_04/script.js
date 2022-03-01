@@ -8,5 +8,7 @@ function signIn() {
     if (email == "admin@gmail.com" & password == "Admin123") {
         alert("Success");
         window.location("home.php");
+    } else {
+        alert("email or password incorrect")
     }
 }
