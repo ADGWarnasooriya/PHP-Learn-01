@@ -8,7 +8,7 @@
 
 <body>
 
-    <form action="process.php">
+    <form action="process.php" method="GET">
         <span>Email</span>
         <input type="text">
 
