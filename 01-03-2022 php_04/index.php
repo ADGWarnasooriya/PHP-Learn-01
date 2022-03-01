@@ -14,7 +14,7 @@
     <br><br>
 
     <span>Password</span>
-    <input type="password">
+    <input type="password" id="p">
 
     <br><br>
 
