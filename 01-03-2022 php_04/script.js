@@ -5,7 +5,7 @@ function signIn() {
     // alert(email.value);
     // alert(password.value);
 
-    if (email == "admin@gmail.com" & password == "Admin123") {
+    if (email.value == "admin@gmail.com" && password.value == "Admin123") {
         alert("Success");
         window.location("home.php");
     } else {
