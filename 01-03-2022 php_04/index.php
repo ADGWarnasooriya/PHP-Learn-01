@@ -19,7 +19,7 @@
 
         <br><br>
 
-        <button>Sign In</button>
+        <button type="submit">Sign In</button>
 
     </form>
 
