@@ -7,18 +7,20 @@
 </head>
 
 <body>
+    <form action="">
+        <span>Email</span>
+        <input type="text">
 
-    <span>Email</span>
-    <input type="text">
+        <br><br>
 
-    <br><br>
+        <span>Password</span>
+        <input type="password">
 
-    <span>Password</span>
-    <input type="password">
+        <br><br>
 
-    <br><br>
+        <button>Sign In</button>
 
-    <button>Sign In</button>
+    </form>
 
 
 </body>
