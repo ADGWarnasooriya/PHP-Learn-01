@@ -18,7 +18,7 @@
 
     <br><br>
 
-    <button>Sign In</button>
+    <button onclick="signIn();">Sign In</button>
 
     <script src="./script.js"></script>
 </body>
