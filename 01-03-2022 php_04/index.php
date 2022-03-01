@@ -20,7 +20,7 @@
 
     <button onclick="signIn();">Sign In</button>
 
-    <script src="./script.js"></script>
+
 </body>
 
 </html>
