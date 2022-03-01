@@ -7,6 +7,7 @@
 </head>
 
 <body>
+
     <form action="">
         <span>Email</span>
         <input type="text">
