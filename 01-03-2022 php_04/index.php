@@ -9,16 +9,16 @@
 <body>
 
     <span>Email</span>
-    <input type="text" id="e">
+    <input type="text">
 
     <br><br>
 
     <span>Password</span>
-    <input type="password" id="p">
+    <input type="password">
 
     <br><br>
 
-    <button onclick="signIn();">Sign In</button>
+    <button>Sign In</button>
 
 
 </body>
