@@ -10,12 +10,12 @@
 
     <form action="process.php" method="GET">
         <span>Email</span>
-        <input type="text">
+        <input type="text" name="e">
 
         <br><br>
 
         <span>Password</span>
-        <input type="password">
+        <input type="password" name="p">
 
         <br><br>
 
