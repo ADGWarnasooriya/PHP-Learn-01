@@ -11,6 +11,8 @@
 
 <body>
     <h1>Create A New Account</h1>
+    <span>First name</span>
+    <input type="text">
     <script src="./script.js"></script>
 </body>
 
