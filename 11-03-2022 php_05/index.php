@@ -14,22 +14,22 @@
     <div class="box">
         <h1 class="topic">Create A New Account</h1>
 
-        <span>First name</span><br>
+        <span class="txt">First name</span><br>
         <input type="text"><br><br>
 
-        <span>Last name</span><br>
+        <span class="txt">Last name</span><br>
         <input type="text"><br><br>
 
-        <span>Email</span><br>
+        <span class="txt">Email</span><br>
         <input type="text"><br><br>
 
-        <span>Mobile</span><br>
+        <span class="txt">Mobile</span><br>
         <input type="text"><br><br>
 
-        <span>Password</span><br>
+        <span class="txt">Password</span><br>
         <input type="text"><br><br>
 
-        <span>City</span><br>
+        <span class="txt">City</span><br>
         <input type="text"><br><br>
 
         <button>Create Account</button>
