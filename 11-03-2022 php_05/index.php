@@ -30,7 +30,7 @@
                 <input class="field" type="text" name="mobile"><br><br>
 
                 <span class="txt">Password</span><br>
-                <input class="field" type="text" name="pw"><br><br>
+                <input class="field" type="password" name="pw"><br><br>
 
                 <span class="txt">City</span><br>
                 <input class="field" type="text" name="city"><br><br>
