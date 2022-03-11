@@ -30,6 +30,7 @@
     <span>City</span><br>
     <input type="text"><br><br>
 
+    <button>Create Account</button>
 
     <script src="./script.js"></script>
 </body>
