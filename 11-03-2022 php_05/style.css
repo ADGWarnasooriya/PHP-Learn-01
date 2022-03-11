@@ -52,3 +52,9 @@ body {
     border-radius: 8px;
     cursor: pointer;
 }
+
+.btn:hover {
+    background-color: rgb(71, 71, 243);
+    color: white;
+    transition-duration: 500ms;
+}
