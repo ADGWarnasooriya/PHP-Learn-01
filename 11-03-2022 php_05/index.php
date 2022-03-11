@@ -9,34 +9,38 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body class="container">
+<body>
 
-    <div class="box">
-        <h1 class="topic">Create A New Account</h1>
 
-        <span class="txt">First name</span><br>
-        <input class="field" type="text"><br><br>
+    <div class="container">
 
-        <span class="txt">Last name</span><br>
-        <input class="field" type="text"><br><br>
+        <div class="box">
+            <h1 class="topic">Create A New Account</h1>
 
-        <span class="txt">Email</span><br>
-        <input class="field" type="text"><br><br>
+            <span class="txt">First name</span><br>
+            <input class="field" type="text"><br><br>
 
-        <span class="txt">Mobile</span><br>
-        <input class="field" type="text"><br><br>
+            <span class="txt">Last name</span><br>
+            <input class="field" type="text"><br><br>
 
-        <span class="txt">Password</span><br>
-        <input class="field" type="text"><br><br>
+            <span class="txt">Email</span><br>
+            <input class="field" type="text"><br><br>
 
-        <span class="txt">City</span><br>
-        <input class="field" type="text"><br><br>
+            <span class="txt">Mobile</span><br>
+            <input class="field" type="text"><br><br>
 
-        <button class="btn">Create Account</button>
+            <span class="txt">Password</span><br>
+            <input class="field" type="text"><br><br>
 
+            <span class="txt">City</span><br>
+            <input class="field" type="text"><br><br>
+
+            <button class="btn">Create Account</button>
+
+        </div>
+
+        <script src="./script.js"></script>
     </div>
-
-    <script src="./script.js"></script>
 </body>
 
 </html>
