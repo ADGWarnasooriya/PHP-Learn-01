@@ -21,6 +21,9 @@
     <span>Email</span><br>
     <input type="text"><br><br>
 
+    <span>Mobile</span><br>
+    <input type="text"><br><br>
+
     <script src="./script.js"></script>
 </body>
 
