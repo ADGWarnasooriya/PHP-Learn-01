@@ -10,27 +10,31 @@
 </head>
 
 <body>
-    <h1>Create A New Account</h1>
 
-    <span>First name</span><br>
-    <input type="text"><br><br>
+    <div>
+        <h1>Create A New Account</h1>
 
-    <span>Last name</span><br>
-    <input type="text"><br><br>
+        <span>First name</span><br>
+        <input type="text"><br><br>
 
-    <span>Email</span><br>
-    <input type="text"><br><br>
+        <span>Last name</span><br>
+        <input type="text"><br><br>
 
-    <span>Mobile</span><br>
-    <input type="text"><br><br>
+        <span>Email</span><br>
+        <input type="text"><br><br>
 
-    <span>Password</span><br>
-    <input type="text"><br><br>
+        <span>Mobile</span><br>
+        <input type="text"><br><br>
 
-    <span>City</span><br>
-    <input type="text"><br><br>
+        <span>Password</span><br>
+        <input type="text"><br><br>
 
-    <button>Create Account</button>
+        <span>City</span><br>
+        <input type="text"><br><br>
+
+        <button>Create Account</button>
+
+    </div>
 
     <script src="./script.js"></script>
 </body>
