@@ -35,7 +35,7 @@
                 <span class="txt">City</span><br>
                 <input class="field" type="text" name="city"><br><br>
 
-                <button class="btn">Create Account</button>
+                <button class="btn" type="submit">Create Account</button>
 
             </div>
 
