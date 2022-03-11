@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body class="container">
 
     <div class="box">
         <h1>Create A New Account</h1>
