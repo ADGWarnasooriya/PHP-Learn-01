@@ -11,7 +11,7 @@
 
 <body>
 
-    <div>
+    <div class="box">
         <h1>Create A New Account</h1>
 
         <span>First name</span><br>
