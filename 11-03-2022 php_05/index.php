@@ -10,7 +10,7 @@
 </head>
 
 <body>
-
+    <h1>Create A New Account</h1>
     <script src="./script.js"></script>
 </body>
 
