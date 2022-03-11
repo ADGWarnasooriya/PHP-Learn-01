@@ -12,7 +12,7 @@
 <body class="container">
 
     <div class="box">
-        <h1>Create A New Account</h1>
+        <h1 class="topic">Create A New Account</h1>
 
         <span>First name</span><br>
         <input type="text"><br><br>
