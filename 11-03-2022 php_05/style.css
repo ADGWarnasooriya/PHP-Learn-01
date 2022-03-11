@@ -13,3 +13,8 @@
     margin-top: 50px; */
     border-radius: 8px;
 }
+
+.topic {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: 25px;
+}
