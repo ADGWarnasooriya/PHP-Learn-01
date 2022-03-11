@@ -11,7 +11,7 @@
 
 <body>
 
-    <form action="registerProcess.php" method="post">
+    <form action="registerProcess.php" method="GET">
         <div class="container">
 
             <div class="box">
