@@ -1,3 +1,8 @@
+body {
+    overflow: hidden;
+    /* to hidden scroll bar */
+}
+
 .container {
     height: 100vh;
     display: flex;
