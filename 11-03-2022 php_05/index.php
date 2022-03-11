@@ -18,22 +18,22 @@
                 <h1 class="topic">Create A New Account</h1>
 
                 <span class="txt">First name</span><br>
-                <input class="field" type="text"><br><br>
+                <input class="field" type="text" name="fname"><br><br>
 
                 <span class="txt">Last name</span><br>
-                <input class="field" type="text"><br><br>
+                <input class="field" type="text" name="lname"><br><br>
 
                 <span class="txt">Email</span><br>
-                <input class="field" type="text"><br><br>
+                <input class="field" type="text" name="email"><br><br>
 
                 <span class="txt">Mobile</span><br>
-                <input class="field" type="text"><br><br>
+                <input class="field" type="text" name="mobile"><br><br>
 
                 <span class="txt">Password</span><br>
-                <input class="field" type="text"><br><br>
+                <input class="field" type="text" name="pw"><br><br>
 
                 <span class="txt">City</span><br>
-                <input class="field" type="text"><br><br>
+                <input class="field" type="text" name="city"><br><br>
 
                 <button class="btn">Create Account</button>
 
