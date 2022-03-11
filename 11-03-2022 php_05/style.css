@@ -28,3 +28,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: 20px;
 }
+
+.field {
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: solid 1px rgb(197, 196, 196);
+    width: 95%;
+    outline: none;
+    border-radius: 6px;
+    padding-left: 10px;
+}
