@@ -32,7 +32,7 @@
         <span class="txt">City</span><br>
         <input class="field" type="text"><br><br>
 
-        <button>Create Account</button>
+        <button class="btn">Create Account</button>
 
     </div>
 
