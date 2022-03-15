@@ -6,5 +6,9 @@
 .field {
     height: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border: none;
+    border: solid 1px rgb(192, 192, 192);
+    width: 95%;
+    outline: none;
+    border-radius: 6px;
+    padding: 10px;
 }
