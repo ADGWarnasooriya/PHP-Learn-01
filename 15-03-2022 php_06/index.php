@@ -17,7 +17,7 @@
     <span class="txt">Password</span>
     <input type="password" class="field"><br><br>
 
-    <button>Submit</button>
+    <button class="btn">Submit</button>
 
     <script src="./script.js"></script>
 </body>
