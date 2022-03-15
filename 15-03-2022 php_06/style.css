@@ -33,3 +33,10 @@
 .topic {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.box {
+    width: 25%;
+    border: solid 3px black;
+    border-radius: 8px;
+    padding: 10px;
+}
