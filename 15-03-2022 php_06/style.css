@@ -23,3 +23,13 @@
     outline: none;
     width: 95%;
 }
+
+.btn:hover {
+    border-color: rgba(0, 0, 255, 0.384);
+    color: white;
+    transition-duration: 500ms;
+}
+
+.topic {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
