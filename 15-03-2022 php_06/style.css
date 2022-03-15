@@ -20,4 +20,6 @@
     border: none;
     cursor: pointer;
     font-weight: bold;
+    outline: none;
+    width: 95%;
 }
