@@ -22,7 +22,7 @@
                 <span class="txt">Password</span>
                 <input type="password" class="field"><br><br>
 
-                <button class="btn">Submit</button>
+                <button type="submit" class="btn">Submit</button>
             </div>
         </div>
     </form>
