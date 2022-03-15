@@ -10,18 +10,22 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="box">
-            <div class="topic">Sign In</div>
-            <span class="txt">Email</span>
-            <input type="text" class="field"><br><br>
 
-            <span class="txt">Password</span>
-            <input type="password" class="field"><br><br>
+    <form action="" method="post">
 
-            <button class="btn">Submit</button>
+        <div class="container">
+            <div class="box">
+                <div class="topic">Sign In</div>
+                <span class="txt">Email</span>
+                <input type="text" class="field"><br><br>
+
+                <span class="txt">Password</span>
+                <input type="password" class="field"><br><br>
+
+                <button class="btn">Submit</button>
+            </div>
         </div>
-    </div>
+    </form>
     <script src="./script.js"></script>
 </body>
 
