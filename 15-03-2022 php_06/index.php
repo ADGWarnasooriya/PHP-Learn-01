@@ -20,9 +20,9 @@
                 <input type="text" class="field"><br><br>
 
                 <span class="txt">Password</span>
-                <input type="password" class="field"><br><br>
+                <input type="password" class="field" name="email"><br><br>
 
-                <button type="submit" class="btn">Submit</button>
+                <button type="submit" class="btn" name="pw">Submit</button>
             </div>
         </div>
     </form>
