@@ -17,6 +17,8 @@
     <span>Password</span>
     <input type="password"><br><br>
 
+    <button>Submit</button>
+
     <script src="./script.js"></script>
 </body>
 
