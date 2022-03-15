@@ -14,6 +14,9 @@
     <span>Email</span>
     <input type="text"><br><br>
 
+    <span>Password</span>
+    <input type="password"><br><br>
+
     <script src="./script.js"></script>
 </body>
 
