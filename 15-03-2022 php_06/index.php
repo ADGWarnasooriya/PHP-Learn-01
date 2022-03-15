@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <div class="box"></div>
     <div class="topic">Sign In</div>
     <span class="txt">Email</span>
     <input type="text" class="field"><br><br>
@@ -18,7 +19,7 @@
     <input type="password" class="field"><br><br>
 
     <button class="btn">Submit</button>
-
+    </div>
     <script src="./script.js"></script>
 </body>
 
