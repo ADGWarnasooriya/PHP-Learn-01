@@ -17,12 +17,12 @@
             <div class="box">
                 <div class="topic">Sign In</div>
                 <span class="txt">Email</span>
-                <input type="text" class="field"><br><br>
+                <input type="text" class="field" name="email"><br><br>
 
                 <span class="txt">Password</span>
-                <input type="password" class="field" name="email"><br><br>
+                <input type="password" class="field" name="pw"><br><br>
 
-                <button type="submit" class="btn" name="pw">Submit</button>
+                <button type="submit" class="btn">Submit</button>
             </div>
         </div>
     </form>
