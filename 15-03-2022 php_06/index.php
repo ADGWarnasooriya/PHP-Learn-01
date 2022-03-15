@@ -12,10 +12,10 @@
 <body>
 
     <span class="txt">Email</span>
-    <input type="text"><br><br>
+    <input type="text" class="field"><br><br>
 
     <span class="txt">Password</span>
-    <input type="password"><br><br>
+    <input type="password" class="field"><br><br>
 
     <button>Submit</button>
 
