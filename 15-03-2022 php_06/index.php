@@ -11,6 +11,9 @@
 
 <body>
 
+    <span>Email</span>
+    <input type="text"><br><br>
+
     <script src="./script.js"></script>
 </body>
 
