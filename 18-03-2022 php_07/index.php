@@ -10,6 +10,19 @@
 
 <body>
 
+    <span>Data 1</span>
+    <input type="text">
+
+    <br><br>
+
+    <span>Data 1</span>
+    <input type="text">
+
+    <br><br>
+
+    <button>Send</button>
+
+
 </body>
 
 </html>
