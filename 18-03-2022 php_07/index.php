@@ -20,7 +20,7 @@
 
         <br><br>
 
-        <button>Send</button>
+        <button type="submit">Send</button>
     </form>
 
 </body>
