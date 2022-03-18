@@ -11,12 +11,12 @@
 <body>
     <form action="process.php" method="GET">
         <span>Data 1</span>
-        <input type="text">
+        <input type="text" name="x">
 
         <br><br>
 
         <span>Data 1</span>
-        <input type="text">
+        <input type="text" name="y">
 
         <br><br>
 
