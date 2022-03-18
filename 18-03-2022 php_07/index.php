@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <form action="" method="GET">
+    <form action="process.php" method="GET">
         <span>Data 1</span>
         <input type="text">
 
