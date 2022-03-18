@@ -15,7 +15,7 @@
 
         <br><br>
 
-        <span>Data 1</span>
+        <span>Data 2</span>
         <input type="text" name="y">
 
         <br><br>
