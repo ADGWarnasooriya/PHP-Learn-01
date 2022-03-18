@@ -9,19 +9,19 @@
 </head>
 
 <body>
+    <form action="" method="GET">
+        <span>Data 1</span>
+        <input type="text">
 
-    <span>Data 1</span>
-    <input type="text">
+        <br><br>
 
-    <br><br>
+        <span>Data 1</span>
+        <input type="text">
 
-    <span>Data 1</span>
-    <input type="text">
+        <br><br>
 
-    <br><br>
-
-    <button>Send</button>
-
+        <button>Send</button>
+    </form>
 
 </body>
 
